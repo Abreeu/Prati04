@@ -61,3 +61,17 @@ No perfil.html, utilize as seguintes tags para organizar o conteúdo:
 ### 5. Entrega: Envie até a data limite o link para o seu repositório no GitHub.
 
 - Dica extra: Adicione um favicon, fontes do Google Fonts e efeitos de transição suaves (transition) para deixar o perfil mais atraente.
+
+## Como Utilizar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="25" height="25" style="margin-left: 10px;"  />
+
+ Para rodar este projeto na sua máquina é necessário fazer a instalação do Node.js. O pacote npm será usado para instalar dependências e rodar scripts de build e execução do projeto, então é necessário usar um terminal com permissão para rodar scripts, ou se preferir acesse a página.
+
+1. **Clone o Repositório**
+
+```bash
+ git clone ENDEREÇO REPOSITÓRIO
+```
+
+2. **Acesse a Página**
+
+- Acesse: https://abreeu-port.netlify.app/
